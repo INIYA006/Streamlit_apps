@@ -5,7 +5,7 @@ from streamlit_option_menu import option_menu
 # st.header(" 🎯Share Your Details")
 # st.subheader(" 👨🏻‍💼 Student Registration Form")
 # st.write("_# Don't miss anything_")
-# st.text("✔️ Note")
+# st.text(" Note")
 # st.code("""
 # #include <stdio.h>
 # int main(){
